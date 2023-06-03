@@ -9,7 +9,7 @@
 
 I have a traditional software engineering degree but I was always into neural networks from semester 1. Uni didn't have any courses on it so I did what I should have done.. picked up Andrew Ng's course on ML and kept on going from there. 
 
-Tool of choice: Pytorch (why? because it makes sense, specially after seeing how to build autograd from scratch (thnx to Andrej karpathy's utube series), it like you know exactly what's happening behind the scenes and it's sometimes easier to debug that way)
+Tool of choice: Pytorch (why? because it makes sense, specially after building autograd from scratch (thnx to Andrej karpathy's utube series), it's like you know exactly what's happening behind the scenes and it's sometimes easier to debug that way)
 
 
 <!--
